@@ -49,8 +49,7 @@ P.S.S.
 4. Вводим никнейм бота
 5. Получаем бот-токен вида `74186XXXXX:AAF4UXXXXXXXXXXXXXXXXXXXXDzikCMzvpk`
 6. Получаем ссылку на бота
-7. Запоминаем, дальше пригодится
-8. `/mybots` > выбираем нашего бота > Bot Settings > Inline Mode > Turn On
+7. `/mybots` > выбираем нашего бота > Bot Settings > Inline Mode > Turn On
 
 ## Как развернуть проект
 На сервере необходимо иметь:
