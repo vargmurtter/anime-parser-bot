@@ -1,0 +1,10 @@
+__pycache__
+.idea
+.vscode
+.mypy_cache
+.VSCodeCounter
+temp
+logs
+venv
+.env
+test.py

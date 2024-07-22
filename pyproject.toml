@@ -1,0 +1,6 @@
+[tool.black]
+line-length=80
+[tool.aerich]
+tortoise_orm = "config.TORTOISE_SETTINGS"
+location = "./migrations"
+src_folder = "./."
