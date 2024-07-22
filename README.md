@@ -65,6 +65,8 @@ P.S.S.
 4. `cp .env.example .env`
 5. `nano .env`
 6. заполнить `.env` файл по примеру
-7. `python parser.py` - спарсит данные с сайта в БД, займет несколько минут
-8. `python main.py` - запустит бота
+7. создать базу данных в postgres с тем именем, которое указали в .env (https://www.commandprompt.com/education/how-to-create-a-postgresql-database-in-docker/)
+8. `aerich upgrade`
+9. `python parser.py` - спарсит данные с сайта в БД, займет несколько минут
+10. `python main.py` - запустит бота
 
