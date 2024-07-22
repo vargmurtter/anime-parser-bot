@@ -61,7 +61,7 @@ P.S.S.
 Настройка (из корня проекта):
 1. `python3.11 -m venv venv`
 2. `source venv/bin/activate`
-3. `pip install -r requirements.txt`
+3. `pip install -r requirements.txt` ! если ругается на либу asyncpg, то делаем так: `sudo apt install python3-dev` и повторяем установку !
 4. `cp .env.example .env`
 5. `nano .env`
 6. заполнить `.env` файл по примеру
